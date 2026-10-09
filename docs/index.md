@@ -7,6 +7,8 @@
 azertyuiopqsdfghkl
 modif branche Marin
 
+fnoznfoznfozei
+
 - de stocker des fichiers ailleurs que sur votre ordinateur ou une clé USB
 - de travailler sur différents fichiers en même temps que d’autres personnes
 - de garder un historique de toutes les modifications faites
