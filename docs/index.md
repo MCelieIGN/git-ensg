@@ -5,6 +5,7 @@
 **Git est un VCS (Version Control System) ou logiciel de gestion de versions** qui est notamment pensé pour le travail collaboratif. Il offre la possibilité :
 
 azertyuiopqsdfghkl
+ajout ligne lionel
 modif branche Marin
 
 fnoznfoznfozei
@@ -271,11 +272,8 @@ Lorsqu’une fusion est tentée, mais que deux personnes ont modifié une ou plu
 
 ```bash
 # début du conflit
-<<<<<<< HEAD
     # premier état du fichier
-=======
     # second état
->>>>>>> nom_branche
 # fin du conflit
 ```
 
