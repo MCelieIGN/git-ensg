@@ -4,6 +4,8 @@
 
 **Git est un VCS (Version Control System) ou logiciel de gestion de versions** qui est notamment pensé pour le travail collaboratif. Il offre la possibilité :
 
+azerty
+
 - de stocker des fichiers ailleurs que sur votre ordinateur ou une clé USB
 - de travailler sur différents fichiers en même temps que d’autres personnes
 - de garder un historique de toutes les modifications faites
