@@ -6,6 +6,9 @@
 
 azertyuiopqsdfghkl
 ajout ligne lionel
+modif branche Marin
+
+fnoznfoznfozei
 
 - de stocker des fichiers ailleurs que sur votre ordinateur ou une clé USB
 - de travailler sur différents fichiers en même temps que d’autres personnes
@@ -269,11 +272,8 @@ Lorsqu’une fusion est tentée, mais que deux personnes ont modifié une ou plu
 
 ```bash
 # début du conflit
-<<<<<<< HEAD
     # premier état du fichier
-=======
     # second état
->>>>>>> nom_branche
 # fin du conflit
 ```
 
